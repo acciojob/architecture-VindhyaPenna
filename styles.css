@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.img{
+	width:200px;
+}
+.start{
+	border:1px solid black;
+}
+.middle{
+	border:1px solid black;
+width:600px;
+}
+
+.end{
+	border:1px solid black;
+}
